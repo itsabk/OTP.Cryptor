@@ -1,0 +1,12 @@
+C:\Workspace\OTP.Cryptor\Xamarin Project\OTPCryptor\OTPCryptor\OTPCryptor\bin\Debug\netstandard2.0\OTPCryptor.deps.json
+C:\Workspace\OTP.Cryptor\Xamarin Project\OTPCryptor\OTPCryptor\OTPCryptor\bin\Debug\netstandard2.0\OTPCryptor.dll
+C:\Workspace\OTP.Cryptor\Xamarin Project\OTPCryptor\OTPCryptor\OTPCryptor\bin\Debug\netstandard2.0\OTPCryptor.pdb
+C:\Workspace\OTP.Cryptor\Xamarin Project\OTPCryptor\OTPCryptor\OTPCryptor\obj\Debug\netstandard2.0\OTPCryptor.csprojAssemblyReference.cache
+C:\Workspace\OTP.Cryptor\Xamarin Project\OTPCryptor\OTPCryptor\OTPCryptor\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Workspace\OTP.Cryptor\Xamarin Project\OTPCryptor\OTPCryptor\OTPCryptor\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Workspace\OTP.Cryptor\Xamarin Project\OTPCryptor\OTPCryptor\OTPCryptor\obj\Debug\netstandard2.0\OTPCryptor.csproj.CoreCompileInputs.cache
+C:\Workspace\OTP.Cryptor\Xamarin Project\OTPCryptor\OTPCryptor\OTPCryptor\obj\Debug\netstandard2.0\OTPCryptor.AssemblyInfoInputs.cache
+C:\Workspace\OTP.Cryptor\Xamarin Project\OTPCryptor\OTPCryptor\OTPCryptor\obj\Debug\netstandard2.0\OTPCryptor.AssemblyInfo.cs
+C:\Workspace\OTP.Cryptor\Xamarin Project\OTPCryptor\OTPCryptor\OTPCryptor\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Workspace\OTP.Cryptor\Xamarin Project\OTPCryptor\OTPCryptor\OTPCryptor\obj\Debug\netstandard2.0\OTPCryptor.dll
+C:\Workspace\OTP.Cryptor\Xamarin Project\OTPCryptor\OTPCryptor\OTPCryptor\obj\Debug\netstandard2.0\OTPCryptor.pdb
