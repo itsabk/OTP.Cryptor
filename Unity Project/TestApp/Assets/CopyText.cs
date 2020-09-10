@@ -11,7 +11,7 @@ public class CopyText : MonoBehaviour
 
     public void Start()
     {
-        text = GameObject.Find("CypheredText").GetComponent<Text>().ToString();
+        text = txt.text.ToString();
         UniClipboard.SetText(text);
     }
 }
